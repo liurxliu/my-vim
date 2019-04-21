@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/liurx/Desktop/laravel-test/tests'
+let g:netrw_dirhist_2='/Users/liurx/Desktop/laravel-test/tests/Unit'
+let g:netrw_dirhist_3='/Users/liurx/Desktop/work-dev/laravel/tests/Unit/Console/Commands'
+let g:netrw_dirhist_4='/Users/liurx/Desktop/work-dev/laravel'
+let g:netrw_dirhist_5='/Users/liurx/Desktop/work-dev'
+let g:netrw_dirhist_6='/Users/liurx/Desktop'
+let g:netrw_dirhist_7='/Users/liurx'
+let g:netrw_dirhist_8='/Users/liurx/Desktop/work-dev/laravel/app/Listeners/Chatbot/Handlers'
+let g:netrw_dirhist_9='/Users/liurx/vim-pra'
